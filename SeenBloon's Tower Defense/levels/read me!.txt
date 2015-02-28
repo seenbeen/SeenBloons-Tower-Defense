@@ -1,0 +1,11 @@
+Note:
+the following levels in here are all test levels. ie: they're pretty much
+all the same and very easy to beat.
+
+
+the last level is the one that prevents the game from crashing;
+in other words, it sends half a bajillion rainbow bloons down the road
+to almost guarantee kill the player.
+
+more levels may be added in the future, and score is calculated on the level you make
+it to.
