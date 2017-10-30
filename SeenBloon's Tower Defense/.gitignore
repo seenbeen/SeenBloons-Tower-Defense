@@ -1,2 +1,4 @@
-# Java Class Files
+# Java Files
 *.class
+*.jar
+build
