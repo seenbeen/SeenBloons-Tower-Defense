@@ -17,11 +17,13 @@
 - Absolutely NO BALANCE :3
 - Highscores
 - Awesome user interface (with "helpful" comments on hover!)
-- Range indicators and limited real estate for towers
+- Range indicators and placement indicators for towers
 - Custom map and level support!
 - ... and more [cuz im lazy]
 
 ## Building and Running
-Requirements: Min JDK 7 installed
+Requirements: Min. JDK 7 installed
+0) Clone or somehow get ahold of the repo.
 1) Run `build.sh` - This will generate a build folder with the compiled `.class` files.
 2) Run `run.sh` - This assumes that the project has been succesfully built and will run the game.
+3) Getting Started: Click and drag an affordable Tower from the right onto the map; Press GO!
