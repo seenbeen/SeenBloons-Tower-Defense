@@ -26,4 +26,4 @@ Requirements: Min. JDK 7 installed
 1) Run `build.sh` - This will generate a build folder with the compiled `.class` files.
 2) Run `run.sh` - This assumes that the project has been succesfully built and will run the game.
 3) Getting Started: Click and drag an affordable Tower from the right onto the map; Press GO!
-4) Alternatively, download a pre-compiled `.jar` from [Here](http://www.mediafire.com/file/8uwz6fb3e9d8k85/SeenBloons_Tower_Defense.rar) and run `Game.jar` (Requires JRE 7+)
+4) Alternatively, download a pre-compiled `.jar` from [Here](http://www.mediafire.com/file/8uwz6fb3e9d8k85/SeenBloons_Tower_Defense.rar) - Extract files and run `Game.jar` (Requires JRE 7+)
